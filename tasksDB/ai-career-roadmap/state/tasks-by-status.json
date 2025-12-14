@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-12-14T15:38:09.068Z",
-  "total_tasks": 13,
+  "generated_at": "2025-12-14T16:50:47.594Z",
+  "total_tasks": 14,
   "counts_by_status": {
     "In Progress": 1,
-    "Not Started": 12
+    "Not Started": 13
   },
   "tasks_by_status": {
     "In Progress": [
@@ -450,6 +450,29 @@
         "attachments": [],
         "completed_date": null,
         "created_date": "2025-12-14T13:25:33.107Z",
+        "creator_id": "system@example.com"
+      },
+      {
+        "task_id": 14,
+        "task_name": "E2E Commit Verify 1765731044506",
+        "description": "Verify commit message & payload structure",
+        "status": "Not Started",
+        "priority": "Medium",
+        "start_date": "2025-12-20",
+        "end_date": "2025-12-21",
+        "progress_percentage": 0,
+        "estimated_hours": 2,
+        "actual_hours": 0,
+        "category_name": "Planning",
+        "tags": [],
+        "is_critical_path": false,
+        "assigned_workers": [],
+        "parent_task_id": null,
+        "dependencies": [],
+        "comments": [],
+        "attachments": [],
+        "completed_date": null,
+        "created_date": "2025-12-14T16:50:44.942Z",
         "creator_id": "system@example.com"
       }
     ]
