@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-14T14:43:45.012Z",
+  "generated_at": "2025-12-14T14:43:55.261Z",
   "total_tasks": 14,
   "counts_by_status": {
     "In Progress": 1,
@@ -9,7 +9,7 @@
     "In Progress": [
       {
         "task_id": 1,
-        "task_name": "Define target role, timeline, and success criteria",
+        "task_name": "Edited Task - 1765723432916",
         "description": "Choose a target role (e.g., ML Engineer, Applied Scientist) and define measurable outcomes (projects shipped, skills, applications).",
         "start_date": "2025-12-15",
         "end_date": "2025-12-16",
