@@ -1,9 +1,9 @@
 {
-  "generated_at": "2025-12-14T23:13:35.990Z",
-  "total_tasks": 16,
+  "generated_at": "2025-12-14T23:25:54.399Z",
+  "total_tasks": 17,
   "counts_by_status": {
     "In Progress": 1,
-    "Not Started": 15
+    "Not Started": 16
   },
   "tasks_by_status": {
     "In Progress": [
@@ -521,6 +521,32 @@
         "attachments": [],
         "completed_date": null,
         "created_date": "2025-12-14T23:13:22.619Z",
+        "creator_id": "system@example.com",
+        "is_test": true
+      },
+      {
+        "task_id": 17,
+        "task_name": "E2E Commit Verify elsl55",
+        "description": "Verify commit message and payload structure",
+        "status": "Not Started",
+        "priority": "Medium",
+        "start_date": "2025-12-20",
+        "end_date": "2025-12-21",
+        "progress_percentage": 0,
+        "estimated_hours": 2,
+        "actual_hours": 0,
+        "category_name": "Planning",
+        "tags": [
+          "e2e-test"
+        ],
+        "is_critical_path": false,
+        "assigned_workers": [],
+        "parent_task_id": null,
+        "dependencies": [],
+        "comments": [],
+        "attachments": [],
+        "completed_date": null,
+        "created_date": "2025-12-14T23:25:51.446Z",
         "creator_id": "system@example.com",
         "is_test": true
       }
