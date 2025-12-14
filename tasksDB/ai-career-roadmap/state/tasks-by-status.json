@@ -1,21 +1,21 @@
 {
-  "generated_at": "2025-12-14T14:43:55.261Z",
-  "total_tasks": 14,
+  "generated_at": "2025-12-14T15:28:31.558Z",
+  "total_tasks": 13,
   "counts_by_status": {
     "In Progress": 1,
-    "Not Started": 13
+    "Not Started": 12
   },
   "tasks_by_status": {
     "In Progress": [
       {
         "task_id": 1,
-        "task_name": "Edited Task - 1765723432916",
+        "task_name": "Define target role, timeline, and success criteria",
         "description": "Choose a target role (e.g., ML Engineer, Applied Scientist) and define measurable outcomes (projects shipped, skills, applications).",
         "start_date": "2025-12-15",
         "end_date": "2025-12-16",
         "priority": "Critical",
         "status": "In Progress",
-        "progress_percentage": 28,
+        "progress_percentage": 50,
         "estimated_hours": 3,
         "actual_hours": 0,
         "is_critical_path": true,
@@ -450,29 +450,6 @@
         "attachments": [],
         "completed_date": null,
         "created_date": "2025-12-14T13:25:33.107Z",
-        "creator_id": "system@example.com"
-      },
-      {
-        "task_id": 14,
-        "task_name": "Test Task - 1765723422074",
-        "description": "Test description for automated testing",
-        "status": "Not Started",
-        "priority": "Medium",
-        "start_date": "2025-12-15",
-        "end_date": "2025-12-20",
-        "progress_percentage": 0,
-        "estimated_hours": 8,
-        "actual_hours": 0,
-        "category_name": "Planning",
-        "tags": [],
-        "is_critical_path": false,
-        "assigned_workers": [],
-        "parent_task_id": null,
-        "dependencies": [],
-        "comments": [],
-        "attachments": [],
-        "completed_date": null,
-        "created_date": "2025-12-14T14:43:42.539Z",
         "creator_id": "system@example.com"
       }
     ]
