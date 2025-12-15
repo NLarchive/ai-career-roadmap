@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-12-15T18:44:06.377Z",
-  "total_tasks": 43,
+  "generated_at": "2025-12-15T19:37:20.776Z",
+  "total_tasks": 44,
   "counts_by_status": {
-    "Not Started": 43
+    "Not Started": 44
   },
   "tasks_by_status": {
     "Not Started": [
@@ -2891,6 +2891,29 @@
           ]
         },
         "assignee_capacity": 1
+      },
+      {
+        "task_id": 44,
+        "task_name": "test",
+        "description": "test",
+        "status": "Not Started",
+        "priority": "Medium",
+        "start_date": "2025-12-15",
+        "end_date": "2025-12-16",
+        "progress_percentage": 0,
+        "estimated_hours": 8,
+        "actual_hours": 0,
+        "category_name": "Discovery",
+        "tags": [],
+        "is_critical_path": false,
+        "assigned_workers": [],
+        "parent_task_id": null,
+        "dependencies": [],
+        "comments": [],
+        "attachments": [],
+        "completed_date": null,
+        "created_date": "2025-12-15T19:37:16.890Z",
+        "creator_id": "system@example.com"
       }
     ]
   }
