@@ -1,11 +1,12 @@
 {
-  "generated_at": "2025-12-15T18:31:30.040Z",
+  "generated_at": "2025-12-15T18:43:40.153Z",
   "total_tasks": 43,
   "counts_by_status": {
-    "Not Started": 43
+    "In Progress": 1,
+    "Not Started": 42
   },
   "tasks_by_status": {
-    "Not Started": [
+    "In Progress": [
       {
         "task_id": 1,
         "task_name": "Kickoff & Discovery: P1. Short Problem Statement",
@@ -13,7 +14,7 @@
         "start_date": "2025-12-14",
         "end_date": "2025-12-15",
         "priority": "Critical",
-        "status": "Not Started",
+        "status": "In Progress",
         "progress_percentage": 0,
         "estimated_hours": 4,
         "actual_hours": 0,
@@ -66,7 +67,9 @@
         },
         "assignee_capacity": 1,
         "assigned_workers": []
-      },
+      }
+    ],
+    "Not Started": [
       {
         "task_id": 2,
         "task_name": "Kickoff & Discovery: P2. Key Unknowns",
