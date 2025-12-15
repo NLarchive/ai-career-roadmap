@@ -42,4 +42,4 @@ task_id,task_name,description,start_date,end_date,priority,status,progress_perce
 41,Docs: Runbook & Release Notes,"Write deployment runbook, rollback plan and release notes for the feature. Expected output: runbook doc and release notes.",2026-04-20,2026-04-30,High,Not Started,0,6,0,false,Delivery,,,2025-12-14T10:00:00Z,
 42,Launch: Canary Rollout,"Perform a controlled canary rollout to a subset of users, monitor for errors and KPI movement. Expected output: rollout notes and KPI snapshot.",2026-05-03,2026-05-07,High,Not Started,0,8,0,true,Delivery,25,,2025-12-14T10:00:00Z,
 43,PM: Post-Launch Metrics Review & Backlog,"Review KPIs after rollout, create prioritized iteration backlog and assign owners. Expected output: metrics report and backlog of improvements.",2026-05-08,2026-06-14,High,Not Started,0,20,0,false,Delivery,26,,2025-12-14T10:00:00Z,
-44,example new task,example test,2025-12-15,2025-12-15,Low,Not Started,0,8,0,false,Discovery,,system@example.com,2025-12-15T19:56:57.243Z,
+44,example new task,example test,2025-12-15,2025-12-15,Low,Completed,0,8,0,false,Discovery,,system@example.com,2025-12-15T19:56:57.243Z,
