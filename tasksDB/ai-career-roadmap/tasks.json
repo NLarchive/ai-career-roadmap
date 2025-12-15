@@ -3020,7 +3020,7 @@
       "task_id": 44,
       "task_name": "example new task",
       "description": "example test",
-      "status": "Not Started",
+      "status": "Completed",
       "priority": "Low",
       "start_date": "2025-12-15",
       "end_date": "2025-12-15",
