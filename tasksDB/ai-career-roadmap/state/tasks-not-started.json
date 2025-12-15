@@ -1,7 +1,68 @@
 {
   "status": "Not Started",
-  "generated_at": "2025-12-15T17:51:54.821Z",
+  "generated_at": "2025-12-15T18:31:30.040Z",
   "tasks": [
+    {
+      "task_id": 1,
+      "task_name": "Kickoff & Discovery: P1. Short Problem Statement",
+      "description": "Define the core problem the roadmap integration should solve: Users think in goals, not taxonomies; landing page is a giant list without structure, hierarchy, or narrative.",
+      "start_date": "2025-12-14",
+      "end_date": "2025-12-15",
+      "priority": "Critical",
+      "status": "Not Started",
+      "progress_percentage": 0,
+      "estimated_hours": 4,
+      "actual_hours": 0,
+      "is_critical_path": true,
+      "tags": [
+        "discovery",
+        "problem-definition"
+      ],
+      "category_name": "Discovery",
+      "parent_task_id": null,
+      "created_date": "2025-12-14T10:00:00Z",
+      "completed_date": null,
+      "comments": [],
+      "attachments": [],
+      "dependencies": [],
+      "required_roles": [
+        {
+          "role": "Project Manager",
+          "skills": [],
+          "capacity": 1
+        }
+      ],
+      "skills_required": [
+        "Project planning",
+        "Stakeholder communication",
+        "Requirements"
+      ],
+      "requisites": [
+        "Access to existing roadmap content and links",
+        "Agreement on target audience and scope"
+      ],
+      "expected_output": "A concise problem statement (<= 1 page) describing the user problem, current pain, and why a roadmap UI is needed; include assumptions and out-of-scope notes.",
+      "goal": "Create shared alignment on the core problem to solve before research and design begin.",
+      "tools": [
+        "Google Docs",
+        "GitHub"
+      ],
+      "complexity": "Medium",
+      "time_estimate_hours": 4,
+      "self_assign_instructions": "Comment on linked issue to claim the task and add your GitHub handle.",
+      "tracking": {
+        "reviewer_role": "Project Manager",
+        "acceptance_criteria": [
+          "A concise problem statement (<= 1 page) describing the user problem, current pain, and why a roadmap UI is needed; include assumptions and out-of-scope notes."
+        ],
+        "verification_steps": [
+          "Peer review output against goal + expected_output",
+          "Confirm dependencies are satisfied (if any)"
+        ]
+      },
+      "assignee_capacity": 1,
+      "assigned_workers": []
+    },
     {
       "task_id": 2,
       "task_name": "Kickoff & Discovery: P2. Key Unknowns",
