@@ -1,8 +1,9 @@
 {
-  "generated_at": "2025-12-15T19:57:00.717Z",
+  "generated_at": "2025-12-15T19:57:51.714Z",
   "total_tasks": 44,
   "counts_by_status": {
-    "Not Started": 44
+    "Not Started": 43,
+    "Completed": 1
   },
   "tasks_by_status": {
     "Not Started": [
@@ -2891,12 +2892,14 @@
           ]
         },
         "assignee_capacity": 1
-      },
+      }
+    ],
+    "Completed": [
       {
         "task_id": 44,
         "task_name": "example new task",
         "description": "example test",
-        "status": "Not Started",
+        "status": "Completed",
         "priority": "Low",
         "start_date": "2025-12-15",
         "end_date": "2025-12-15",
