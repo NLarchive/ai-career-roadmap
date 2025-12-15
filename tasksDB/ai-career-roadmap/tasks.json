@@ -1,7 +1,4 @@
 {
-  "template_type": "project_task_template",
-  "version": "1.2",
-  "description": "Complete task breakdown for the Roadmap Integration on deeplearning.ai project, based on the web-integration-plan.md phases, roles, and sprint plan. Tasks are sorted by priority order (Critical first), with dependencies and critical path identified for a 6-person contributor team.",
   "project": {
     "name": "Roadmap Integration on deeplearning.ai",
     "description": "Integrate the AI Career Roadmap UI into the deeplearning.ai site, enabling learners to choose clear paths, view next steps, and see platform gaps. Delivered by a 6-person contributor team with diverse skills.",
@@ -140,7 +137,7 @@
       "start_date": "2025-12-14",
       "end_date": "2025-12-15",
       "priority": "Critical",
-      "status": "Not Started",
+      "status": "In Progress",
       "progress_percentage": 0,
       "estimated_hours": 4,
       "actual_hours": 0,
@@ -191,7 +188,8 @@
           "Confirm dependencies are satisfied (if any)"
         ]
       },
-      "assignee_capacity": 1
+      "assignee_capacity": 1,
+      "assigned_workers": []
     },
     {
       "task_id": 2,
@@ -3018,35 +3016,5 @@
       },
       "assignee_capacity": 1
     }
-  ],
-  "required_fields": [
-    "project.name",
-    "tasks[].task_id",
-    "tasks[].task_name",
-    "tasks[].description",
-    "tasks[].start_date",
-    "tasks[].end_date",
-    "tasks[].priority",
-    "tasks[].status",
-    "tasks[].estimated_hours",
-    "tasks[].category_name"
-  ],
-  "optional_fields": [
-    "project.description",
-    "project.budget",
-    "tasks[].progress_percentage",
-    "tasks[].actual_hours",
-    "tasks[].is_critical_path",
-    "tasks[].tags",
-    "tasks[].assigned_workers",
-    "tasks[].parent_task_id",
-    "tasks[].creator_id",
-    "tasks[].created_date",
-    "tasks[].completed_date",
-    "tasks[].comments",
-    "tasks[].attachments",
-    "tasks[].dependencies",
-    "categories",
-    "workers"
   ]
 }
